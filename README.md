@@ -1,11 +1,13 @@
 <div align="center">
 
-<!-- 1. ANIMATED HEADER (Waving + Twinkling Stars) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Sahil%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+<h1 align="center">Hi, I'm Sahil Bishnoi 👋</h1>
+<h3 align="center">Building Real-World Digital Products & Solutions</h3>
 
-<!-- 2. ANIMATED TYPING TEXT -->
+<br>
+
+<!-- Professional Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Lead+Software+Engineer+@+Kloud+Quantum;I+build+real+products+for+real+businesses;11++Live+Client+Websites+Built;Mobile+Apps+on+App+Store+&+Google+Play;Full-Stack+|+Cloud+|+Mobile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Mobile+App+Developer;11++Live+Client+Websites;Production+Apps+on+App+Store+%26+Play+Store;Building+Real+Products+For+Businesses" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -15,96 +17,90 @@
 <a href="https://github.com/Sahil-Bishnoi-29"><img src="https://komarev.com/ghpvc/?username=Sahil-Bishnoi-29&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" /></a>
 
 <br><br>
-
-<!-- ANIMATED RAINBOW SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
 </div>
 
 <br>
 
-<table width="100%" style="border: none;">
+## 🚀 Real-World Projects & Experience
+
+I have a highly practical, product-oriented approach to development. My work focuses on building applications that solve actual business requirements, moving beyond tutorials to production-level deployment.
+
+<table width="100%" align="center">
   <tr>
-    <td width="55%" valign="top">
-      <h2>🚀 About My Work</h2>
-      <p>I have a practical, product-oriented approach toward development. I focus on building applications that actually solve business requirements, taking them from scratch to production.</p>
-      <ul style="line-height: 1.8;">
-        <li>🌐 <b>Full-Stack:</b> MERN Stack, Node.js, PHP, .NET</li>
-        <li>🛒 <b>Business Solutions:</b> 11+ Live E-Commerce & Custom Apps</li>
-        <li>📱 <b>Mobile Ecosystems:</b> Cross-platform apps (iOS & Android)</li>
-        <li>☁️ <b>Infrastructure:</b> Cloudflare, AWS, Modern Web Arch</li>
+    <td width="33%" valign="top">
+      <h3>🌐 E-Commerce & Web</h3>
+      <ul>
+        <li><b>11+ Live Client Websites</b></li>
+        <li>Custom-coded platforms</li>
+        <li>Responsive storefronts & UI</li>
+        <li>Advanced WordPress + PHP</li>
       </ul>
-      <p><i>Hands-on learner • Builder mindset • Problem solver</i></p>
     </td>
-    <td width="45%" align="center">
-      <!-- ANIMATED CODING GIF -->
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="80%" style="border-radius: 10px;" />
+    <td width="33%" valign="top">
+      <h3>📱 Mobile Applications</h3>
+      <ul>
+        <li><b>Production Mobile Apps</b></li>
+        <li>Live on <b>Apple App Store</b></li>
+        <li>Live on <b>Google Play Store</b></li>
+        <li>Cross-platform deployment</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Custom Software</h3>
+      <ul>
+        <li><b>Custom Admin Panels</b></li>
+        <li>Business Management Systems</li>
+        <li>API & Backend Architecture</li>
+        <li>CRUD operations & dashboards</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 <br>
 
-<div align="center">
-<!-- ANIMATED RAINBOW SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
+## 💻 Technical Skill Set
 
-<br>
+I work across the entire stack, from building the frontend UI to deploying scalable cloud infrastructure.
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
-    <td width="40%" valign="top" align="center">
-      <h2>🛤️ The Journey</h2>
-      <!-- ANIMATED ROCKET GIF -->
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" />
-      <br>
-      <p align="center">
-        <code>HTML / CSS / JS</code><br>↓<br>
-        <code>WordPress + PHP</code><br>↓<br>
-        <code>Real-World Client Sites</code><br>↓<br>
-        <code>Full-Stack & Custom Apps</code><br>↓<br>
-        <code>Mobile Apps (iOS & Android)</code><br>↓<br>
-        <code>Lead Software Engineer</code><br>↓<br>
-        <code>Cloud + AI Architecture</code>
-      </p>
-    </td>
-    <td width="60%" align="center" valign="top">
-      <h2>🧩 Tech Arsenal</h2>
+    <td width="33%" valign="top" align="center">
+      <h3>🎨 Frontend</h3>
       <br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,nodejs,php,dotnet,mongodb,mysql,aws,cloudflare,wordpress,git,github,vscode&perline=6" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&perline=3" />
       </a>
+      <br><br>
+    </td>
+    <td width="34%" valign="top" align="center">
+      <h3>⚙️ Backend & DB</h3>
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,php,dotnet,mysql,mongodb&perline=3" />
+      </a>
+      <br><br>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>☁️ Cloud & Tools</h3>
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,cloudflare,wordpress,git,github,vscode&perline=3" />
+      </a>
+      <br><br>
     </td>
   </tr>
 </table>
 
 <br>
+
+## 📈 GitHub Analytics
 
 <div align="center">
-<!-- ANIMATED RAINBOW SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<h2>📊 GitHub Activity & Stats</h2>
-
-<!-- GITHUB TROPHIES (Dynamically Generated) -->
-<img src="https://github-profile-trophy.vercel.app/?username=Sahil-Bishnoi-29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-
-<br><br>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Bishnoi-29&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Bishnoi-29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Bishnoi-29&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Bishnoi-29&theme=tokyonight&hide_border=true" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Bishnoi-29&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="48%" />
+</div>
 
 <br>
-<!-- ANIMATED FOOTER (Waving) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-
-</div>
